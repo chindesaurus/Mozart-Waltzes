@@ -1,5 +1,4 @@
-Mozart-Waltzes
-================================
+#Mozart-Waltzes
   
 Compilation:  javac Mozart.java  
 Execution:    java Mozart  
@@ -13,7 +12,7 @@ present working directory.
 In Mozart's game, we compose a two-part waltz (minuet and trio) by joining together  
 randomly selected, pre-composed measures.  
   
-**Minuet**  
+##Minuet  
 The minuet is 16 measures long, having 176 possible pre-composed measures.  
 The following table determines which measure will be played in our waltz.  
 
@@ -38,7 +37,7 @@ the vertical axis; the measure of the minuet is on the horizontal axis.
 For example, if you roll a 5 and 6 for measure 1, then play pre-composed measure #3.  
   
     
-**Trio**  
+##Trio  
 The trio is also 16 measures long, with 96 possible pre-composed measures.  
 To determine which one to play, roll one die and use the following table as before:
   
