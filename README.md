@@ -14,7 +14,7 @@ randomly selected, pre-composed measures.
   
 ##Minuet  
 The minuet is 16 measures long, having 176 possible pre-composed measures.  
-The following table determines which measure will be played in our waltz.  
+The following table determines which pre-composed measures to play.
 
 Roll two dice for each of the 16 measures. The sum of the dice rolls is on
 the vertical axis; the measure of the minuet is on the horizontal axis.
